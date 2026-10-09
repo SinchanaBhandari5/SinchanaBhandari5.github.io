@@ -24,7 +24,7 @@ This project is a simple, responsive static website created using HTML and CSS. 
 
 ## Project Structure
 ```text
-SinchanaBhandari05.github.io/
+SinchanaBhandari5.github.io/
 ├── index.html
 ├── style.css
 └── README.md
@@ -32,10 +32,10 @@ SinchanaBhandari05.github.io/
 
 ## Live Website
 Visit my website:
-https://SinchanaBhandari05.github.io
+https://SinchanaBhandari5.github.io
 
 ## GitHub Repository
-https://github.com/SinchanaBhandari05/SinchanaBhandari05.github.io
+https://github.com/SinchanaBhandari5/SinchanaBhandari5.github.io
 
 ## Deployment Steps
 1. Created a public GitHub repository.
